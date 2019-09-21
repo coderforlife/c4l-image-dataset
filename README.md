@@ -130,7 +130,7 @@ Other
 -----
 | Name | From | License |
 | - | - | - |
-| 2560x1920/hippocampus.png | [CIL:40967](http://www.cellimagelibrary.org/images/40967)<br>[doi:10.7295/W9CIL40967](https://doi.org/doi:10.7295/W9CIL40967) | CC BY NC ND |
+| 2560x1920/hippocampus.png | [CIL:40967](http://www.cellimagelibrary.org/images/40967) [doi:10.7295/W9CIL40967](https://doi.org/doi:10.7295/W9CIL40967) | CC BY NC ND |
 | 1024x1024/gravel.png | [craziwolf-seamless-textures](https://www.deviantart.com/craziwolf/art/16-Free-Premium-Seamless-Ground-Textures-1024X1024-300739637) | CC BY 3.0 |
 | 1024x1024/moss.png | [craziwolf-seamless-textures](https://www.deviantart.com/craziwolf/art/16-Free-Premium-Seamless-Ground-Textures-1024X1024-300739637) | CC BY 3.0 |
 | 1920x1080/weathered-wood.png | [newevolutiondesigns-wood-textures](https://newevolutiondesigns.com/free-weathered-wood-textures) | CC BY 3.0 |
