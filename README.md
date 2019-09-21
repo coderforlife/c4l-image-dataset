@@ -1,5 +1,5 @@
-Image Dataset
-=============
+C4L Image Dataset
+=================
 This is a collection of 2D and 3D images used for grayscale image processing tests. It includes at least 8 images of each of the following sizes:
 
 * 256x256 - 65.5k pixels
@@ -135,6 +135,10 @@ Other
 | 1024x1024/moss.png | [craziwolf-seamless-textures](https://www.deviantart.com/craziwolf/art/16-Free-Premium-Seamless-Ground-Textures-1024X1024-300739637) | CC BY 3.0 |
 | 1920x1080/weathered-wood.png | [newevolutiondesigns-wood-textures](https://newevolutiondesigns.com/free-weathered-wood-textures) | CC BY 3.0 |
 
+Electron Microscopy
+-------------------
+The 'em' images that are present in each image size are from the 'neuropil' dataset collected for Bush, J (2018). Spatial Distribution of Subcellular Organelles in Hippocampal Dendrites from High-Resolution EM Images. UC San Diego. This subset is licensed under CC BY 4.0.
+
 Personal
 --------
 These photos were personally taken. 
@@ -149,12 +153,3 @@ Generated
 ---------
 All random images were generated for this image dataset as uniform random generated images. All of them can be used without any license.
 
-TODO
-------
-256x256/em.png
-512x512/em.png
-1024x1024/em.png
-1920x1080/em.png
-2560x1440/em.png
-2560x1920/em.png
-256x256x128/em/*.png
