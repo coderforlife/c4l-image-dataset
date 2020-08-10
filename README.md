@@ -29,7 +29,7 @@ Image Sources
 
 USC SIPI Image Dataset
 ----------------------
-From: [sipi.usc.edu/database/database.php](http://sipi.usc.edu/database/database.php). Each of the photos is listed with the filename given from the USC SIPI dataset and categorized by license. 
+From: [sipi.usc.edu/database/database.php](http://sipi.usc.edu/database/database.php). Each of the photos is listed with the filename given from the USC SIPI dataset and categorized by license.  
 License: See [sipi.usc.edu/database/copyright.php](http://sipi.usc.edu/database/copyright.php) for details.
 
 * USC/USC-SIPI Copyright, free to use for research
@@ -37,7 +37,7 @@ License: See [sipi.usc.edu/database/copyright.php](http://sipi.usc.edu/database/
   * 512x512/motioncar.png  - sequences/motion04.512.tiff
   * 1024x1024/pentagon.png - aerials/3.2.25.tiff
   * 1024x1024/sandiego.png - aerials/2.2.01.tiff
-* Brodatz Textures, copyright Dover Pictorial Archive Series (see  [this](http://graphics.stanford.edu/projects/texture/faq/brodatz.html), allowed to use up to 3 in a project)
+* Brodatz Textures, copyright Dover Pictorial Archive Series (see [this](http://graphics.stanford.edu/projects/texture/faq/brodatz.html), allowed to use up to 3 in a project)
   * 512x512/bark.png       - textures/1.1.02.tiff
   * 512x512/brick wall.png - textures/1.2.12.tiff
   * 512x512/sand.png       - textures/1.1.07.tiff
@@ -59,7 +59,7 @@ License: See [sipi.usc.edu/database/copyright.php](http://sipi.usc.edu/database/
 
 Henry Guennadi Levkin Corpus
 ----------------------------
-From: [hlevkin.com/06testimages.htm](http://hlevkin.com/06testimages.htm). 
+From: [hlevkin.com/06testimages.htm](http://hlevkin.com/06testimages.htm).  
 License: Unknown.
 
 * 256x256/cameraman.png
@@ -69,7 +69,7 @@ License: Unknown.
 
 NASA
 ----
-From: [nasa.gov](https://www.nasa.gov/) and [hubblesite.org](https://hubblesite.org/). 
+From: [nasa.gov](https://www.nasa.gov/) and [hubblesite.org](https://hubblesite.org/).  
 License: Public domain.
 
 * 1024x1024/neptune.png
@@ -79,7 +79,7 @@ License: Public domain.
 
 SpaceX
 ------
-From: [spacex.com/media](https://www.spacex.com/media). 
+From: [spacex.com/media](https://www.spacex.com/media).  
 License: Public domain.
 
 * 2560x1440/demo1ready.png
@@ -88,9 +88,9 @@ License: Public domain.
 
 Cancer Imaging Archive
 ----------------------
-From: [cancerimagingarchive.net](https://www.cancerimagingarchive.net/). 
-License: CC BY 3.0. 
-General citation: Clark K *et al*. The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository, Journal of Digital Imaging, Volume 26, Number 6, December, 2013, pp 1045-1057.
+From: [cancerimagingarchive.net](https://www.cancerimagingarchive.net/).  
+License: CC BY 3.0.  
+General citation: Clark K *et al*. (December, 2013) "The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository", *Journal of Digital Imaging*, Volume 26, Number 6, pp 1045-1057.
 
 Each individual collection within the archive also has its own citation:
 
@@ -111,37 +111,41 @@ Acknowledgements:
 
 Open Access Series of Imaging Studies (OASIS)
 ---------------------------------------------
-From: [oasis-brains.org](https://www.oasis-brains.org/#data)
-License: CC BY 4.0.
-Citation: Open Access Series of Imaging Studies (OASIS): Longitudinal MRI Data in Nondemented and Demented Older Adults. Marcus, DS, Fotenos, AF, Csernansky, JG, Morris, JC, Buckner, RL, 2010. Journal of Cognitive Neuroscience, 22, 2677-2684. [doi:10.1162/jocn.2009.21407](https://www.doi.org/10.1162/jocn.2009.21407).
+From: [oasis-brains.org](https://www.oasis-brains.org/#data)  
+License: CC BY 4.0.  
+Citation: Marcus, DS, Fotenos, AF, Csernansky, JG, Morris, JC, Buckner, RL (2010). "Open Access Series of Imaging Studies (OASIS): Longitudinal MRI Data in Nondemented and Demented Older Adults." *Journal of Cognitive Neuroscience*, 22, 2677-2684. [doi:10.1162/jocn.2009.21407](https://www.doi.org/10.1162/jocn.2009.21407).
 
 * 256x256x128/oas2-3/*.png - [OAS2_0001_MR2](https://central.xnat.org/app/action/DisplayItemAction/search_element/xnat%3AmrSessionData/search_field/xnat%3AmrSessionData.ID/search_value/CENTRAL_E00090/popup/false/project/CENTRAL_OASIS_LONG)
 
 National Archives Videos
 ------------------------
-From [catalog.archives.gov](https://catalog.archives.gov/).
+From [catalog.archives.gov](https://catalog.archives.gov/).  
+License: [Public domain](https://www.archives.gov/research/motion-pictures/permissions).
 
 * 256x256x128/splashing/\*.png - [catalog.archives.gov/id/37490](https://catalog.archives.gov/id/37490) 
-Moving Images No. 131-B-10; "CAMP ACTIVITIES OF BOYS AND GIRLS," ca. 1937-1940; Records of the Office of Alien Property, Record Group 131; National Archives at College Park, College Park, MD.
+Moving Images No. 131-B-10; "CAMP ACTIVITIES OF BOYS AND GIRLS," ca. 1937-1940; *Records of the Office of Alien Property*, Record Group 131; National Archives at College Park, College Park, MD.
 * 256x256x128/crowd/\*.png - [catalog.archives.gov/id/49737](https://catalog.archives.gov/id/49737) 
-Moving Images No. 306.3394; "The March In Washington - 1963," August 1963; Records of the U.S. Information Agency, Record Group 306; National Archives at College Park, College Park, MD.
+Moving Images No. 306.3394; "The March In Washington - 1963," August 1963; *Records of the U.S. Information Agency*, Record Group 306; National Archives at College Park, College Park, MD.
 
 Other
 -----
 | Name | From | License |
 | - | - | - |
 | 2560x1920/hippocampus.png | [CIL:40967](http://www.cellimagelibrary.org/images/40967) [doi:10.7295/W9CIL40967](https://doi.org/doi:10.7295/W9CIL40967) | CC BY NC ND |
+| 2560x1920/forest.png | [pxhere](https://pxhere.com/en/photo/21939) | CC0
+| 2560x1920/forest-aerial.png | [pxhere](https://pxhere.com/en/photo/10863) | CC0
+| 2560x1920/fruit.png | [pxhere](https://pxhere.com/en/photo/1250568) | CC0
 | 1024x1024/gravel.png | [craziwolf-seamless-textures](https://www.deviantart.com/craziwolf/art/16-Free-Premium-Seamless-Ground-Textures-1024X1024-300739637) | CC BY 3.0 |
 | 1024x1024/moss.png | [craziwolf-seamless-textures](https://www.deviantart.com/craziwolf/art/16-Free-Premium-Seamless-Ground-Textures-1024X1024-300739637) | CC BY 3.0 |
 | 1920x1080/weathered-wood.png | [newevolutiondesigns-wood-textures](https://newevolutiondesigns.com/free-weathered-wood-textures) | CC BY 3.0 |
 
 Electron Microscopy
 -------------------
-The 'em' images that are present in each image size are from the 'neuropil' dataset collected for Bush, J (2018). Spatial Distribution of Subcellular Organelles in Hippocampal Dendrites from High-Resolution EM Images. UC San Diego. This subset is licensed under CC BY 4.0.
+The 'em' images that are present in each image size are from the 'neuropil' dataset collected for Bush, J (2018). "Spatial Distribution of Subcellular Organelles in Hippocampal Dendrites from High-Resolution EM Images." UC San Diego. This subset is licensed under CC BY 4.0.
 
 Personal
 --------
-These photos were personally taken. 
+These photos were personally taken.  
 License: CC BY 4.0.
 
 * 1920x1080/stone.png
@@ -151,5 +155,4 @@ License: CC BY 4.0.
 
 Generated
 ---------
-All random images were generated for this image dataset as uniform random generated images. All of them can be used without any license.
-
+All random images were generated for this image dataset as uniform random generated images. All of them can be used without any license (CC0).
